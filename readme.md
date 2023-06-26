@@ -2,7 +2,7 @@
 
 ## install
 ```
-yarn install
+yarn
 ```
 
 ## preview
